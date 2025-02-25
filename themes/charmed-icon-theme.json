@@ -448,6 +448,7 @@
 		"app": "folder-app",
 		"apps": "folder-app",
 		"ui": "folder-app",
+        "lune": "folder-lune",
 		"asset": "folder-asset",
 		"assets": "folder-asset",
 		"public": "folder-asset",
@@ -549,6 +550,8 @@
 		"views": "folder-html",
 		"image": "folder-image",
 		"images": "folder-image",
+        "decal": "folder-image",
+        "decals": "folder-image",
 		"img": "folder-image",
 		"photo": "folder-image",
 		"photos": "folder-image",
@@ -763,6 +766,8 @@
 			"views": "folder-html-alt",
 			"image": "folder-image-alt",
 			"images": "folder-image-alt",
+            "decal": "folder-image-alt",
+            "decals": "folder-image-alt",
 			"img": "folder-image-alt",
 			"photo": "folder-image-alt",
 			"photos": "folder-image-alt",
@@ -862,7 +867,8 @@
 			".vitepress": "folder-config-alt",
 			".editorconfig": "folder-config-alt",
 			".git": "folder-config-alt",
-			".lune": "folder-lune-alt"
+			".lune": "folder-lune-alt",
+            "lune": "folder-lune-alt"
 		}
 	}
 }
